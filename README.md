@@ -89,3 +89,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderssongodoy&show_icons=true&locale=en&layout=compact" alt="anderssongodoy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anderssongodoy&show_icons=true&locale=en" alt="anderssongodoy" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderssongodoy&show_icons=true&locale=en&layout=compact" alt="anderssongodoy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anderssongodoy&" alt="anderssongodoy" /></p>
