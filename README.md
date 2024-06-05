@@ -1,5 +1,6 @@
 <h1 align="center">Hola!! Soy Andersson Godoy</h1>
 <h3 align="center">Egresado de IDAT en la carrera de Desarrollo de Sistemas de Información</h3>
+<h3 align="center">Estudiante de Ing de Sistemas y Tecnología en UTP</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
