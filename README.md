@@ -1,6 +1,6 @@
 # 💫 About Me:
-Soy estudiante de la Universidad Tecnológica del Perú y Egresado de IDAT
-Full Stack Developer<br>
+Soy estudiante de la Universidad Tecnológica del Perú y Egresado de IDAT<br>
+<h1 align="center"><bold>FULL STACK DEVELOPER</bold><h1/><br>
 
 
 ## 🌐 Socials:
