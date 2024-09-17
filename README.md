@@ -16,7 +16,6 @@ Soy estudiante de la Universidad Tecnológica del Perú y Egresado de IDAT<br>
 <table width="100%">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anderssongodoy&theme=tokyonight&hide_border=false" />
     </td>
   </tr>
   <tr>
